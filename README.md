@@ -1,5 +1,7 @@
 # Real Estate Mortgage 
 
+![Zillow](Images/Zillow-Logo.png)
+
 ## Overview and Origin
 
 * Zillow Group Inc, was incorporates in Dec 2004.
